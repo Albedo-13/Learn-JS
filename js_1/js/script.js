@@ -272,3 +272,4 @@ function availableCurr(arr, missingCurr) {
 }
 
 console.log(availableCurr(joinedCurrencies, "EUR"));
+
